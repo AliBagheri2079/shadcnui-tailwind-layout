@@ -53,7 +53,7 @@ const components: { title: string; href: string; description: string }[] = [
   },
 ];
 
-export function Nav() {
+export function Navigation() {
   return (
     <NavigationMenu>
       <NavigationMenuList>
